@@ -1,5 +1,6 @@
 /.vscode
 *.pdf
+/.Samala_Sudhakar_Travel_Reimbursement_Agent.ipynb
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
